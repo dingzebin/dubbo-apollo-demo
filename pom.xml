@@ -18,7 +18,7 @@
         <apollo.version>1.5.0</apollo.version>
         <dubbo.spring.boot.starter.version>2.7.4.1</dubbo.spring.boot.starter.version>
         <spring-boot-starter>2.2.1.RELEASE</spring-boot-starter>
-        <spring-boot-starter-web>2.2.1.RELEASE</spring-boot-starter-web>
+        <spring-boot-starter-web>2.5.12</spring-boot-starter-web>
         <zookeeper.version>3.5.5</zookeeper.version>
         <curator.version>4.2.0</curator.version>
         <curator-recipes>4.2.0</curator-recipes>
